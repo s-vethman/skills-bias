@@ -15,8 +15,7 @@
 - To facilitate the creation of Figure 3, _job-average bias of skill sets related to the corresponding job's male employment ratio_, the simple R script can be utilized.
 - Results can be verified using the Final_results.xlsx.
 
-**Updates will follow**
 
-Have a good day!
+More updates will follow, have a good day!
 
 _Steven_
