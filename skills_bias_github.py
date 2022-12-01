@@ -264,8 +264,10 @@ def main_results():
     get_analysis_avg(job_averages, "ESCO")
 
 if __name__ == "__main__":
-    #choose which main you would like to run
-    #main_analysis()
-    main_results()
+    # Install packages according to requirements.txt; make sure you at least have the same transformers version for reproducible results
+    # Put the txt files in a "data" folder
+    # First run main_analysis(), second run main_results()
+    # main_analysis()
+    # main_results()
 
 
