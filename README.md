@@ -5,15 +5,15 @@
 - Currently submitting this paper.
 
 **Origin of data**
-- Skills from ontologies ESCO and O\*NET are obtained from: https://ec.europa.eu/esco/portal/skill and https://www.onetcenter.org/. Accessed, 1st May 2020. 
-- Male employment ratios of each occupation is obtained from the US Labour Bureau of Statistics, https://www.bls.gov/opub/reports/womens-databook/2019/pdf/home.pdf.
+- Skills from ontologies ESCO and O\*NET are obtained from: https://ec.europa.eu/esco/portal/skill and https://www.onetcenter.org/. Accessed, 1st May 2022. 
+- Male employment ratios of each occupation is obtained from the US Labour Bureau of Statistics (USBLS), https://www.bls.gov/opub/reports/womens-databook/2019/pdf/home.pdf.
 
 **Manual for reproduction**
-- All data is connected in file Final_data_connection.xlsx.
-- All data necessary to run the python script skills_bias_research.py are ready as ESCO_EN.csv, ONET_EN.csv.
-- Running the script provides OUTPUT_\*.csv's. 
-- To facilitate the creation of Figure 3, _job-average bias of skill sets related to the corresponding job's male employment ratio_, the simple R script can be utilized.
-- Results can be verified using the Final_results.xlsx.
+- All data is connected in file USBLS_ONET_ESCO_LINK.xlsx.
+- All data necessary to run the python script skills_bias_github.py are ready as ESCO_Skills.txt, ONET_skills.txt as tab-delimited files.
+- Put these files in a data folder and check whether the filepaths function as desired in your current work directory.
+- Running the script provides the output in a data folder.
+- Python version 3.8 and see requirements.txt for package versions.
 
 
 More updates will follow, have a good day!
