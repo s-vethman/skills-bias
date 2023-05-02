@@ -10,7 +10,7 @@
 
 **Manual for reproduction**
 - All data is connected in file USBLS_ONET_ESCO_LINK.xlsx.
-- All data necessary to run the python script skills_bias_github.py are ready as ESCO_Skills.txt, ONET_skills.txt as tab-delimited files.
+- All data necessary to run the python script skills_bias_github.py are ready as ESCO_Skills.txt, ONET_Skills.txt as tab-delimited files.
 - Put these files in a data folder and check whether the filepaths function as desired in your current work directory.
 - Running the script provides the output in a data folder.
 - Python version 3.8 and see requirements.txt for package versions.
